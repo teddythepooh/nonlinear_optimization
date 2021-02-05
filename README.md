@@ -1,1 +1,2 @@
-# nonlinear_optimization
+## MATH 347: Nonlinear Optimization (Clustering)
+
