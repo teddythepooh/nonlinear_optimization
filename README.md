@@ -1,4 +1,4 @@
-## Clustering Analysis
+## Spectral Clustering
 
 Timeline: Spring 2021
 
